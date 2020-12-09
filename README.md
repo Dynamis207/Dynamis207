@@ -1,4 +1,4 @@
-[![banner](https://lh3.googleusercontent.com/proxy/dMUQTSx6YUVU2fOB22SAg5Jklh-U3tgRsvyiIuiaVuCfnRPlq6KEDWWg9NHzuFDCr_grll_pC_0pwUghhjRW4m5hydrOUD0WEnVMjv0mNpc)](https://hexxx.ml)
+[![banner](https://lh3.googleusercontent.com/proxy/dMUQTSx6YUVU2fOB22SAg5Jklh-U3tgRsvyiIuiaVuCfnRPlq6KEDWWg9NHzuFDCr_grll_pC_0pwUghhjRW4m5hydrOUD0WEnVMjv0mNpc)](https://discord.gg/UKwa3VXezU)
 ### Hi there , I'm Dynamis 🎇
 
 - 🔭 I’m currently working on ...
