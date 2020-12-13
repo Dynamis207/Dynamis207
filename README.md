@@ -12,3 +12,5 @@
   <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
   
 </p>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Dynamis207&show_icons=false&theme=radical)
