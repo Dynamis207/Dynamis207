@@ -10,7 +10,7 @@
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Dynamis207&theme=dracula&count_private=true"></div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dynamis207&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamis207&theme=tokyonight&hide=batchfile">
 
-<p align="center"> 
-  Visitor count<br>
+<h1 align="center"> 
+  Visitor count</h1>
   <img src="https://profile-counter.glitch.me/Dynamis207/count.svg" />
 </p>
