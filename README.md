@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Dynami's</h1>
+<h1 align="center">Hey 👋, I'm Dynamis</h1>
 
 - 🔭 I’m currently working on Open Source Projects and Discord Bots.
 - 🌱 I’m currently learning Lua and C++.
